@@ -7,11 +7,11 @@
     "publishedAt": "2026-09-10T09:00:00Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/IHIt9S2DWcQ/hqdefault.jpg",
-    "viewCount": 2660364,
-    "likeCount": 31291,
+    "viewCount": 2672898,
+    "likeCount": 31346,
     "duration": "PT2M36S",
     "durationSeconds": 156,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "OwgvFefFAVA": {
     "videoId": "OwgvFefFAVA",
@@ -21,53 +21,11 @@
     "publishedAt": "2026-09-13T15:00:03Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/OwgvFefFAVA/hqdefault.jpg",
-    "viewCount": 154269,
-    "likeCount": 16997,
+    "viewCount": 155480,
+    "likeCount": 17062,
     "duration": "PT2M10S",
     "durationSeconds": 130,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "P50Ag1FGBUY": {
-    "videoId": "P50Ag1FGBUY",
-    "title": "케인으로 극락 보내기",
-    "channelTitle": "이상호",
-    "channelId": "UCfIUuMA7U_jImP7oWfTe4Pw",
-    "publishedAt": "2026-09-13T09:47:47Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/P50Ag1FGBUY/hqdefault.jpg",
-    "viewCount": 646512,
-    "likeCount": 2948,
-    "duration": "PT22M17S",
-    "durationSeconds": 1337,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "JJx_WQXOeK0": {
-    "videoId": "JJx_WQXOeK0",
-    "title": "꿈꾸던 어른이 되었나요?",
-    "channelTitle": "meomuru - Topic",
-    "channelId": "UCumxj48bP-H_YusbCXi7vkQ",
-    "publishedAt": "2026-09-11T01:57:15Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/JJx_WQXOeK0/hqdefault.jpg",
-    "viewCount": 564926,
-    "likeCount": 7528,
-    "duration": "PT3M28S",
-    "durationSeconds": 208,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "LRAxVSfwK4g": {
-    "videoId": "LRAxVSfwK4g",
-    "title": "'디아블로 5' - 최초 공개 티저 트레일러 (4K, 한국어 자막)",
-    "channelTitle": "인벤",
-    "channelId": "UCQePzo3_oRB-6RAzBioc6pg",
-    "publishedAt": "2026-09-12T18:24:50Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/LRAxVSfwK4g/hqdefault.jpg",
-    "viewCount": 53376,
-    "likeCount": 111,
-    "duration": "PT48S",
-    "durationSeconds": 48,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "RNCCb1s7wis": {
     "videoId": "RNCCb1s7wis",
@@ -77,11 +35,53 @@
     "publishedAt": "2026-09-14T08:54:39Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/RNCCb1s7wis/hqdefault.jpg",
-    "viewCount": 97761,
-    "likeCount": 1047,
+    "viewCount": 99622,
+    "likeCount": 1083,
     "duration": "PT25M13S",
     "durationSeconds": 1513,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "JJx_WQXOeK0": {
+    "videoId": "JJx_WQXOeK0",
+    "title": "꿈꾸던 어른이 되었나요?",
+    "channelTitle": "meomuru - Topic",
+    "channelId": "UCumxj48bP-H_YusbCXi7vkQ",
+    "publishedAt": "2026-09-11T01:57:15Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/JJx_WQXOeK0/hqdefault.jpg",
+    "viewCount": 568715,
+    "likeCount": 7579,
+    "duration": "PT3M28S",
+    "durationSeconds": 208,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "LRAxVSfwK4g": {
+    "videoId": "LRAxVSfwK4g",
+    "title": "'디아블로 5' - 최초 공개 티저 트레일러 (4K, 한국어 자막)",
+    "channelTitle": "인벤",
+    "channelId": "UCQePzo3_oRB-6RAzBioc6pg",
+    "publishedAt": "2026-09-12T18:24:50Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/LRAxVSfwK4g/hqdefault.jpg",
+    "viewCount": 53444,
+    "likeCount": 111,
+    "duration": "PT48S",
+    "durationSeconds": 48,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "P50Ag1FGBUY": {
+    "videoId": "P50Ag1FGBUY",
+    "title": "케인으로 극락 보내기",
+    "channelTitle": "이상호",
+    "channelId": "UCfIUuMA7U_jImP7oWfTe4Pw",
+    "publishedAt": "2026-09-13T09:47:47Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/P50Ag1FGBUY/hqdefault.jpg",
+    "viewCount": 648728,
+    "likeCount": 2952,
+    "duration": "PT22M17S",
+    "durationSeconds": 1337,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "Ak1cg1ex0NY": {
     "videoId": "Ak1cg1ex0NY",
@@ -91,11 +91,11 @@
     "publishedAt": "2026-09-14T09:00:25Z",
     "categoryId": "24",
     "thumbnail": "https://i.ytimg.com/vi/Ak1cg1ex0NY/hqdefault.jpg",
-    "viewCount": 9024,
-    "likeCount": 5059,
+    "viewCount": 9368,
+    "likeCount": 5198,
     "duration": "PT2M58S",
     "durationSeconds": 178,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "omLatXVqF-E": {
     "videoId": "omLatXVqF-E",
@@ -105,11 +105,11 @@
     "publishedAt": "2026-09-13T02:40:05Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/omLatXVqF-E/hqdefault.jpg",
-    "viewCount": 153033,
+    "viewCount": 153309,
     "likeCount": 679,
     "duration": "PT5M16S",
     "durationSeconds": 316,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "sByuWVbkWNA": {
     "videoId": "sByuWVbkWNA",
@@ -119,11 +119,11 @@
     "publishedAt": "2026-09-13T13:00:40Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/sByuWVbkWNA/hqdefault.jpg",
-    "viewCount": 440144,
-    "likeCount": 1402,
+    "viewCount": 442335,
+    "likeCount": 1403,
     "duration": "PT20M27S",
     "durationSeconds": 1227,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "xplsbbSxkEg": {
     "videoId": "xplsbbSxkEg",
@@ -133,11 +133,11 @@
     "publishedAt": "2026-09-11T09:04:32Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/xplsbbSxkEg/hqdefault.jpg",
-    "viewCount": 237876,
-    "likeCount": 3853,
+    "viewCount": 238999,
+    "likeCount": 3863,
     "duration": "PT4M20S",
     "durationSeconds": 260,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "-pTSEEYEu84": {
     "videoId": "-pTSEEYEu84",
@@ -147,11 +147,11 @@
     "publishedAt": "2026-09-13T08:30:31Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/-pTSEEYEu84/hqdefault.jpg",
-    "viewCount": 511336,
-    "likeCount": 1707,
+    "viewCount": 513430,
+    "likeCount": 1710,
     "duration": "PT26M2S",
     "durationSeconds": 1562,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "NkUR7fjS9QQ": {
     "videoId": "NkUR7fjS9QQ",
@@ -161,11 +161,11 @@
     "publishedAt": "2026-09-09T17:16:25Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/NkUR7fjS9QQ/hqdefault.jpg",
-    "viewCount": 11228,
-    "likeCount": 29,
+    "viewCount": 11820,
+    "likeCount": 32,
     "duration": "PT2M49S",
     "durationSeconds": 169,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "PGmiCTvvk9o": {
     "videoId": "PGmiCTvvk9o",
@@ -175,11 +175,11 @@
     "publishedAt": "2026-09-14T03:00:39Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/PGmiCTvvk9o/hqdefault.jpg",
-    "viewCount": 199725,
-    "likeCount": 922,
+    "viewCount": 204639,
+    "likeCount": 930,
     "duration": "PT35M53S",
     "durationSeconds": 2153,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "7BVvQeJt1EU": {
     "videoId": "7BVvQeJt1EU",
@@ -189,11 +189,11 @@
     "publishedAt": "2026-09-13T11:00:39Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/7BVvQeJt1EU/hqdefault.jpg",
-    "viewCount": 111421,
-    "likeCount": 10315,
+    "viewCount": 112098,
+    "likeCount": 10332,
     "duration": "PT4M41S",
     "durationSeconds": 281,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "CCl-9h9I5hM": {
     "videoId": "CCl-9h9I5hM",
@@ -203,11 +203,11 @@
     "publishedAt": "2026-09-13T10:18:03Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/CCl-9h9I5hM/hqdefault.jpg",
-    "viewCount": 515566,
-    "likeCount": 8031,
+    "viewCount": 517586,
+    "likeCount": 8058,
     "duration": "PT38M56S",
     "durationSeconds": 2336,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "vK2h7ViyrrE": {
     "videoId": "vK2h7ViyrrE",
@@ -217,11 +217,11 @@
     "publishedAt": "2026-09-12T04:00:04Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/vK2h7ViyrrE/hqdefault.jpg",
-    "viewCount": 156954,
-    "likeCount": 4940,
+    "viewCount": 157762,
+    "likeCount": 4951,
     "duration": "PT2M6S",
     "durationSeconds": 126,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "cCAwkcgArBY": {
     "videoId": "cCAwkcgArBY",
@@ -231,11 +231,11 @@
     "publishedAt": "2026-09-13T04:59:44Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/cCAwkcgArBY/hqdefault.jpg",
-    "viewCount": 437759,
-    "likeCount": 3544,
+    "viewCount": 438759,
+    "likeCount": 3549,
     "duration": "PT31M49S",
     "durationSeconds": 1909,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "4XycAo8rQJw": {
     "videoId": "4XycAo8rQJw",
@@ -245,11 +245,11 @@
     "publishedAt": "2026-09-06T10:00:07Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/4XycAo8rQJw/hqdefault.jpg",
-    "viewCount": 203692,
-    "likeCount": 13181,
+    "viewCount": 204149,
+    "likeCount": 13188,
     "duration": "PT3M15S",
     "durationSeconds": 195,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "KqmKmuppwEI": {
     "videoId": "KqmKmuppwEI",
@@ -259,39 +259,11 @@
     "publishedAt": "2026-09-13T10:17:29Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/KqmKmuppwEI/hqdefault.jpg",
-    "viewCount": 304735,
-    "likeCount": 983,
+    "viewCount": 306148,
+    "likeCount": 987,
     "duration": "PT43M32S",
     "durationSeconds": 2612,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "c_EkPFglnpU": {
-    "videoId": "c_EkPFglnpU",
-    "title": "Rip Out Your Eyes",
-    "channelTitle": "Marino - Topic",
-    "channelId": "UCyiBThiUINekOuhsQz7JQPA",
-    "publishedAt": "2026-09-08T10:03:20Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/c_EkPFglnpU/hqdefault.jpg",
-    "viewCount": 1102290,
-    "likeCount": 33542,
-    "duration": "PT1M51S",
-    "durationSeconds": 111,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "g5Jw8omDc08": {
-    "videoId": "g5Jw8omDc08",
-    "title": "[ 불도그 LIVE 생방송 9/14 ] 리니지m 새벽3시에켰습니다, 드슬떳습니다! 악세지존을향해!!",
-    "channelTitle": "불도그",
-    "channelId": "UCBjPppB6FOLloYBUvgbqE_A",
-    "publishedAt": "2026-09-14T04:25:52Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/g5Jw8omDc08/hqdefault.jpg",
-    "viewCount": 374540,
-    "likeCount": 1371,
-    "duration": "PT10H17M43S",
-    "durationSeconds": 37063,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "YA1IK2HzmGw": {
     "videoId": "YA1IK2HzmGw",
@@ -301,95 +273,39 @@
     "publishedAt": "2026-09-14T09:00:17Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/YA1IK2HzmGw/hqdefault.jpg",
-    "viewCount": 77473,
-    "likeCount": 15567,
+    "viewCount": 80937,
+    "likeCount": 16290,
     "duration": "PT3M5S",
     "durationSeconds": 185,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "fQFeYy7ZqPU": {
-    "videoId": "fQFeYy7ZqPU",
-    "title": "GEN vs HLE | 2026 Wooribank LCK Grand Finals",
-    "channelTitle": "LCK Global",
-    "channelId": "UCKVlixycWmapnGQ_wht4cHQ",
-    "publishedAt": "2026-09-13T10:05:19Z",
+  "g5Jw8omDc08": {
+    "videoId": "g5Jw8omDc08",
+    "title": "[ 불도그 LIVE 생방송 9/14 ] 리니지m 새벽3시에켰습니다, 드슬떳습니다! 악세지존을향해!!",
+    "channelTitle": "불도그",
+    "channelId": "UCBjPppB6FOLloYBUvgbqE_A",
+    "publishedAt": "2026-09-14T04:25:52Z",
     "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/fQFeYy7ZqPU/hqdefault.jpg",
-    "viewCount": 2263018,
-    "likeCount": 7795,
-    "duration": "PT5H3M5S",
-    "durationSeconds": 18185,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/g5Jw8omDc08/hqdefault.jpg",
+    "viewCount": 375431,
+    "likeCount": 1373,
+    "duration": "PT10H17M43S",
+    "durationSeconds": 37063,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "or2hAeUxWu8": {
-    "videoId": "or2hAeUxWu8",
-    "title": "So we were",
-    "channelTitle": "JAEHA - Topic",
-    "channelId": "UCWRoSAXNAFFXGF3GunMdCog",
-    "publishedAt": "2026-09-12T09:00:27Z",
+  "c_EkPFglnpU": {
+    "videoId": "c_EkPFglnpU",
+    "title": "Rip Out Your Eyes",
+    "channelTitle": "Marino - Topic",
+    "channelId": "UCyiBThiUINekOuhsQz7JQPA",
+    "publishedAt": "2026-09-08T10:03:20Z",
     "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/or2hAeUxWu8/hqdefault.jpg",
-    "viewCount": 24984,
-    "likeCount": 324,
-    "duration": "PT2M50S",
-    "durationSeconds": 170,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "sjXdaX4gKsc": {
-    "videoId": "sjXdaX4gKsc",
-    "title": "코드컵에서 나온 세계 1위의 레전드 플레이",
-    "channelTitle": "킴성태TV",
-    "channelId": "UCAaLhok91QDrweyuDRsmjqQ",
-    "publishedAt": "2026-09-13T10:08:55Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/sjXdaX4gKsc/hqdefault.jpg",
-    "viewCount": 274941,
-    "likeCount": 972,
-    "duration": "PT51M58S",
-    "durationSeconds": 3118,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "MD36f_hPXHc": {
-    "videoId": "MD36f_hPXHc",
-    "title": "16 Bit (KARINA Solo)",
-    "channelTitle": "aespa - Topic",
-    "channelId": "UCEdZAdnnKqbaHOlv8nM6OtA",
-    "publishedAt": "2026-09-14T09:00:04Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/MD36f_hPXHc/hqdefault.jpg",
-    "viewCount": 19422,
-    "likeCount": 3901,
-    "duration": "PT3M48S",
-    "durationSeconds": 228,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "bmFzyap0RnM": {
-    "videoId": "bmFzyap0RnM",
-    "title": "옵드컵 역대 최고의 명경기...전 세계가 미쳐버린 도파민 | 옵드컵 4강전 프랑스 vs 한국",
-    "channelTitle": "일루전 ILLUSION",
-    "channelId": "UCJmnOEp1-OITEU0mk4icM5A",
-    "publishedAt": "2026-09-13T20:55:11Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/bmFzyap0RnM/hqdefault.jpg",
-    "viewCount": 141640,
-    "likeCount": 1493,
-    "duration": "PT2H15M5S",
-    "durationSeconds": 8105,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "qWakHDd-Tgk": {
-    "videoId": "qWakHDd-Tgk",
-    "title": "송소희 Song Sohee - NANSEN",
-    "channelTitle": "송소희 Song Sohee",
-    "channelId": "UCkETgC-oou53G1LoICkLTUw",
-    "publishedAt": "2026-09-13T09:00:06Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/qWakHDd-Tgk/hqdefault.jpg",
-    "viewCount": 164346,
-    "likeCount": 4103,
-    "duration": "PT3M44S",
-    "durationSeconds": 224,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/c_EkPFglnpU/hqdefault.jpg",
+    "viewCount": 1106829,
+    "likeCount": 33650,
+    "duration": "PT1M51S",
+    "durationSeconds": 111,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "ZOEshYTrHcI": {
     "videoId": "ZOEshYTrHcI",
@@ -399,39 +315,95 @@
     "publishedAt": "2026-09-14T08:10:23Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/ZOEshYTrHcI/hqdefault.jpg",
-    "viewCount": 53809,
-    "likeCount": 592,
+    "viewCount": 62378,
+    "likeCount": 615,
     "duration": "PT14M48S",
     "durationSeconds": 888,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "T8overWHe90": {
-    "videoId": "T8overWHe90",
-    "title": "My Way",
-    "channelTitle": "ISU feat. Kasane Teto - Topic",
-    "channelId": "UCqTCdfsg7EWoxQDq6NeUlaw",
-    "publishedAt": "2026-08-31T15:02:39Z",
+  "MD36f_hPXHc": {
+    "videoId": "MD36f_hPXHc",
+    "title": "16 Bit (KARINA Solo)",
+    "channelTitle": "aespa - Topic",
+    "channelId": "UCEdZAdnnKqbaHOlv8nM6OtA",
+    "publishedAt": "2026-09-14T09:00:04Z",
     "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/T8overWHe90/hqdefault.jpg",
-    "viewCount": 52760,
-    "likeCount": 171,
-    "duration": "PT4M39S",
-    "durationSeconds": 279,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/MD36f_hPXHc/hqdefault.jpg",
+    "viewCount": 20013,
+    "likeCount": 4093,
+    "duration": "PT3M48S",
+    "durationSeconds": 228,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "Gu7_LaU3fgk": {
-    "videoId": "Gu7_LaU3fgk",
-    "title": "스타크래프트 | 발표 시네마틱 | 자치령",
-    "channelTitle": "스타크래프트",
-    "channelId": "UClWPSY-fuGOIldrlUTqoEag",
-    "publishedAt": "2026-09-12T18:12:46Z",
+  "bmFzyap0RnM": {
+    "videoId": "bmFzyap0RnM",
+    "title": "옵드컵 역대 최고의 명경기...전 세계가 미쳐버린 도파민 | 옵드컵 4강전 프랑스 vs 한국",
+    "channelTitle": "일루전 ILLUSION",
+    "channelId": "UCJmnOEp1-OITEU0mk4icM5A",
+    "publishedAt": "2026-09-13T20:55:11Z",
     "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/Gu7_LaU3fgk/hqdefault.jpg",
-    "viewCount": 566456,
-    "likeCount": 6615,
-    "duration": "PT3M5S",
-    "durationSeconds": 185,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/bmFzyap0RnM/hqdefault.jpg",
+    "viewCount": 143726,
+    "likeCount": 1510,
+    "duration": "PT2H15M5S",
+    "durationSeconds": 8105,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "or2hAeUxWu8": {
+    "videoId": "or2hAeUxWu8",
+    "title": "So we were",
+    "channelTitle": "JAEHA - Topic",
+    "channelId": "UCWRoSAXNAFFXGF3GunMdCog",
+    "publishedAt": "2026-09-12T09:00:27Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/or2hAeUxWu8/hqdefault.jpg",
+    "viewCount": 25236,
+    "likeCount": 326,
+    "duration": "PT2M50S",
+    "durationSeconds": 170,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "sjXdaX4gKsc": {
+    "videoId": "sjXdaX4gKsc",
+    "title": "코드컵에서 나온 세계 1위의 레전드 플레이",
+    "channelTitle": "킴성태TV",
+    "channelId": "UCAaLhok91QDrweyuDRsmjqQ",
+    "publishedAt": "2026-09-13T10:08:55Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/sjXdaX4gKsc/hqdefault.jpg",
+    "viewCount": 276198,
+    "likeCount": 973,
+    "duration": "PT51M58S",
+    "durationSeconds": 3118,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "qWakHDd-Tgk": {
+    "videoId": "qWakHDd-Tgk",
+    "title": "송소희 Song Sohee - NANSEN",
+    "channelTitle": "송소희 Song Sohee",
+    "channelId": "UCkETgC-oou53G1LoICkLTUw",
+    "publishedAt": "2026-09-13T09:00:06Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/qWakHDd-Tgk/hqdefault.jpg",
+    "viewCount": 165586,
+    "likeCount": 4129,
+    "duration": "PT3M44S",
+    "durationSeconds": 224,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "fQFeYy7ZqPU": {
+    "videoId": "fQFeYy7ZqPU",
+    "title": "GEN vs HLE | 2026 Wooribank LCK Grand Finals",
+    "channelTitle": "LCK Global",
+    "channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+    "publishedAt": "2026-09-13T10:05:19Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/fQFeYy7ZqPU/hqdefault.jpg",
+    "viewCount": 2263439,
+    "likeCount": 7798,
+    "duration": "PT5H3M5S",
+    "durationSeconds": 18185,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "gTAmRc1QWis": {
     "videoId": "gTAmRc1QWis",
@@ -441,39 +413,39 @@
     "publishedAt": "2026-09-12T09:00:19Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/gTAmRc1QWis/hqdefault.jpg",
-    "viewCount": 10173,
-    "likeCount": 204,
+    "viewCount": 10203,
+    "likeCount": 205,
     "duration": "PT3M10S",
     "durationSeconds": 190,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "RrY4k7kipK0": {
-    "videoId": "RrY4k7kipK0",
-    "title": "Road to 1st | GEN vs HLE | 하이라이트 | 09.13 | 2026 LCK",
-    "channelTitle": "클리드",
-    "channelId": "UCyoSQyaCrZHro6F_nBiXIYg",
-    "publishedAt": "2026-09-13T11:35:50Z",
+  "Gu7_LaU3fgk": {
+    "videoId": "Gu7_LaU3fgk",
+    "title": "스타크래프트 | 발표 시네마틱 | 자치령",
+    "channelTitle": "스타크래프트",
+    "channelId": "UClWPSY-fuGOIldrlUTqoEag",
+    "publishedAt": "2026-09-12T18:12:46Z",
     "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/RrY4k7kipK0/hqdefault.jpg",
-    "viewCount": 214375,
-    "likeCount": 629,
-    "duration": "PT1H12M45S",
-    "durationSeconds": 4365,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/Gu7_LaU3fgk/hqdefault.jpg",
+    "viewCount": 568637,
+    "likeCount": 6639,
+    "duration": "PT3M5S",
+    "durationSeconds": 185,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "mw0gC7ML-UA": {
-    "videoId": "mw0gC7ML-UA",
-    "title": "My Friend",
-    "channelTitle": "Mark Lee - Topic",
-    "channelId": "UCnW0LS_9_YXjyteelz5kWzA",
-    "publishedAt": "2026-09-10T04:03:08Z",
+  "T8overWHe90": {
+    "videoId": "T8overWHe90",
+    "title": "My Way",
+    "channelTitle": "ISU feat. Kasane Teto - Topic",
+    "channelId": "UCqTCdfsg7EWoxQDq6NeUlaw",
+    "publishedAt": "2026-08-31T15:02:39Z",
     "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/mw0gC7ML-UA/hqdefault.jpg",
-    "viewCount": 682855,
-    "likeCount": 9760,
-    "duration": "PT2M55S",
-    "durationSeconds": 175,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/T8overWHe90/hqdefault.jpg",
+    "viewCount": 53026,
+    "likeCount": 172,
+    "duration": "PT4M39S",
+    "durationSeconds": 279,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "ZMLCDzX9ASg": {
     "videoId": "ZMLCDzX9ASg",
@@ -483,11 +455,11 @@
     "publishedAt": "2026-09-14T07:18:59Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/ZMLCDzX9ASg/hqdefault.jpg",
-    "viewCount": 90263,
-    "likeCount": 382,
+    "viewCount": 99515,
+    "likeCount": 395,
     "duration": "PT18M35S",
     "durationSeconds": 1115,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "Di375ODZUAk": {
     "videoId": "Di375ODZUAk",
@@ -497,25 +469,25 @@
     "publishedAt": "2026-09-14T09:00:27Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/Di375ODZUAk/hqdefault.jpg",
-    "viewCount": 18831,
-    "likeCount": 1769,
+    "viewCount": 21166,
+    "likeCount": 1855,
     "duration": "PT2M30S",
     "durationSeconds": 150,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "q53CiW3ceEI": {
-    "videoId": "q53CiW3ceEI",
-    "title": "마지막 무대를 장식한 대망의 결승전 | GEN vs HLE | 2026 LCK Grand Finals",
-    "channelTitle": "김군 유튜브",
-    "channelId": "UCwBkHOTyu57NQi0syf5MLig",
-    "publishedAt": "2026-09-13T10:21:18Z",
+  "RrY4k7kipK0": {
+    "videoId": "RrY4k7kipK0",
+    "title": "Road to 1st | GEN vs HLE | 하이라이트 | 09.13 | 2026 LCK",
+    "channelTitle": "클리드",
+    "channelId": "UCyoSQyaCrZHro6F_nBiXIYg",
+    "publishedAt": "2026-09-13T11:35:50Z",
     "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/q53CiW3ceEI/hqdefault.jpg",
-    "viewCount": 171425,
-    "likeCount": 605,
-    "duration": "PT50M37S",
-    "durationSeconds": 3037,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/RrY4k7kipK0/hqdefault.jpg",
+    "viewCount": 215772,
+    "likeCount": 630,
+    "duration": "PT1H12M45S",
+    "durationSeconds": 4365,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "jVzMzYKdppw": {
     "videoId": "jVzMzYKdppw",
@@ -525,11 +497,11 @@
     "publishedAt": "2026-09-14T09:04:26Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/jVzMzYKdppw/hqdefault.jpg",
-    "viewCount": 3259,
-    "likeCount": 237,
+    "viewCount": 3304,
+    "likeCount": 243,
     "duration": "PT3M11S",
     "durationSeconds": 191,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "n1r1bVQC1kM": {
     "videoId": "n1r1bVQC1kM",
@@ -539,39 +511,39 @@
     "publishedAt": "2026-09-14T03:00:33Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/n1r1bVQC1kM/hqdefault.jpg",
-    "viewCount": 154907,
-    "likeCount": 690,
+    "viewCount": 159890,
+    "likeCount": 694,
     "duration": "PT12M34S",
     "durationSeconds": 754,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "Ggaks-34Fuc": {
-    "videoId": "Ggaks-34Fuc",
-    "title": "Coward",
-    "channelTitle": "PENTAGON - Topic",
-    "channelId": "UCn3iVeuDQtYOG-lpzMN5SZw",
-    "publishedAt": "2026-09-11T09:00:09Z",
+  "mw0gC7ML-UA": {
+    "videoId": "mw0gC7ML-UA",
+    "title": "My Friend",
+    "channelTitle": "Mark Lee - Topic",
+    "channelId": "UCnW0LS_9_YXjyteelz5kWzA",
+    "publishedAt": "2026-09-10T04:03:08Z",
     "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/Ggaks-34Fuc/hqdefault.jpg",
-    "viewCount": 135461,
-    "likeCount": 2344,
-    "duration": "PT3M32S",
-    "durationSeconds": 212,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/mw0gC7ML-UA/hqdefault.jpg",
+    "viewCount": 685331,
+    "likeCount": 9785,
+    "duration": "PT2M55S",
+    "durationSeconds": 175,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "y_o-lfS9Q-g": {
-    "videoId": "y_o-lfS9Q-g",
-    "title": "솔랭 돌리고 각성한 뜨뜨뜨뜨, 이제 시작입니다",
-    "channelTitle": "뜨뜨뜨뜨",
-    "channelId": "UCHxKSivB6JLZ1SEMdxd1fAg",
-    "publishedAt": "2026-09-12T13:00:04Z",
+  "q53CiW3ceEI": {
+    "videoId": "q53CiW3ceEI",
+    "title": "마지막 무대를 장식한 대망의 결승전 | GEN vs HLE | 2026 LCK Grand Finals",
+    "channelTitle": "김군 유튜브",
+    "channelId": "UCwBkHOTyu57NQi0syf5MLig",
+    "publishedAt": "2026-09-13T10:21:18Z",
     "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/y_o-lfS9Q-g/hqdefault.jpg",
-    "viewCount": 505547,
-    "likeCount": 1479,
-    "duration": "PT25M27S",
-    "durationSeconds": 1527,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/q53CiW3ceEI/hqdefault.jpg",
+    "viewCount": 171766,
+    "likeCount": 605,
+    "duration": "PT50M37S",
+    "durationSeconds": 3037,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "PkkQ99YgE_8": {
     "videoId": "PkkQ99YgE_8",
@@ -581,11 +553,39 @@
     "publishedAt": "2026-09-13T03:00:39Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/PkkQ99YgE_8/hqdefault.jpg",
-    "viewCount": 16390,
-    "likeCount": 502,
+    "viewCount": 16654,
+    "likeCount": 513,
     "duration": "PT2M45S",
     "durationSeconds": 165,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "y_o-lfS9Q-g": {
+    "videoId": "y_o-lfS9Q-g",
+    "title": "솔랭 돌리고 각성한 뜨뜨뜨뜨, 이제 시작입니다",
+    "channelTitle": "뜨뜨뜨뜨",
+    "channelId": "UCHxKSivB6JLZ1SEMdxd1fAg",
+    "publishedAt": "2026-09-12T13:00:04Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/y_o-lfS9Q-g/hqdefault.jpg",
+    "viewCount": 506561,
+    "likeCount": 1483,
+    "duration": "PT25M27S",
+    "durationSeconds": 1527,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "Ggaks-34Fuc": {
+    "videoId": "Ggaks-34Fuc",
+    "title": "Coward",
+    "channelTitle": "PENTAGON - Topic",
+    "channelId": "UCn3iVeuDQtYOG-lpzMN5SZw",
+    "publishedAt": "2026-09-11T09:00:09Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/Ggaks-34Fuc/hqdefault.jpg",
+    "viewCount": 136160,
+    "likeCount": 2349,
+    "duration": "PT3M32S",
+    "durationSeconds": 212,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "3PLhM0-UFzI": {
     "videoId": "3PLhM0-UFzI",
@@ -595,11 +595,11 @@
     "publishedAt": "2026-09-13T10:30:21Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/3PLhM0-UFzI/hqdefault.jpg",
-    "viewCount": 247940,
-    "likeCount": 1267,
+    "viewCount": 248793,
+    "likeCount": 1268,
     "duration": "PT13M39S",
     "durationSeconds": 819,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "co6Dwx1kNRw": {
     "videoId": "co6Dwx1kNRw",
@@ -609,39 +609,11 @@
     "publishedAt": "2026-09-10T10:03:50Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/co6Dwx1kNRw/hqdefault.jpg",
-    "viewCount": 320417,
-    "likeCount": 5562,
+    "viewCount": 321898,
+    "likeCount": 5591,
     "duration": "PT3M3S",
     "durationSeconds": 183,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "pd-H5Fl5zEU": {
-    "videoId": "pd-H5Fl5zEU",
-    "title": "의도치않게 모잉을 저격한 퀴즈 게임 ㅋㅋㅋ",
-    "channelTitle": "하우카우",
-    "channelId": "UCYSFs_X0PYHlAnd-ywzMEZw",
-    "publishedAt": "2026-09-13T09:00:39Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/pd-H5Fl5zEU/hqdefault.jpg",
-    "viewCount": 202178,
-    "likeCount": 2151,
-    "duration": "PT22M12S",
-    "durationSeconds": 1332,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
-  },
-  "svHUxtHIljw": {
-    "videoId": "svHUxtHIljw",
-    "title": "Guitarist",
-    "channelTitle": "D.O. - Topic",
-    "channelId": "UCoXL6PWoim-_uP2CiZKAnDA",
-    "publishedAt": "2026-09-08T09:02:15Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/svHUxtHIljw/hqdefault.jpg",
-    "viewCount": 1482048,
-    "likeCount": 16973,
-    "duration": "PT2M43S",
-    "durationSeconds": 163,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "BIZSJrISl-A": {
     "videoId": "BIZSJrISl-A",
@@ -651,11 +623,39 @@
     "publishedAt": "2026-09-13T21:00:29Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/BIZSJrISl-A/hqdefault.jpg",
-    "viewCount": 109504,
-    "likeCount": 470,
+    "viewCount": 110846,
+    "likeCount": 474,
     "duration": "PT1H28M24S",
     "durationSeconds": 5304,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "svHUxtHIljw": {
+    "videoId": "svHUxtHIljw",
+    "title": "Guitarist",
+    "channelTitle": "D.O. - Topic",
+    "channelId": "UCoXL6PWoim-_uP2CiZKAnDA",
+    "publishedAt": "2026-09-08T09:02:15Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/svHUxtHIljw/hqdefault.jpg",
+    "viewCount": 1486608,
+    "likeCount": 17000,
+    "duration": "PT2M43S",
+    "durationSeconds": 163,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
+  },
+  "pd-H5Fl5zEU": {
+    "videoId": "pd-H5Fl5zEU",
+    "title": "의도치않게 모잉을 저격한 퀴즈 게임 ㅋㅋㅋ",
+    "channelTitle": "하우카우",
+    "channelId": "UCYSFs_X0PYHlAnd-ywzMEZw",
+    "publishedAt": "2026-09-13T09:00:39Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/pd-H5Fl5zEU/hqdefault.jpg",
+    "viewCount": 202864,
+    "likeCount": 2154,
+    "duration": "PT22M12S",
+    "durationSeconds": 1332,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "PEpWLTge234": {
     "videoId": "PEpWLTge234",
@@ -665,25 +665,25 @@
     "publishedAt": "2026-09-08T09:02:52Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/PEpWLTge234/hqdefault.jpg",
-    "viewCount": 934109,
-    "likeCount": 29837,
+    "viewCount": 936025,
+    "likeCount": 29852,
     "duration": "PT4M30S",
     "durationSeconds": 270,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
-  "JcKt1TxF3_g": {
-    "videoId": "JcKt1TxF3_g",
-    "title": "260913 지렁이게임 (사이다 1등 다수)",
-    "channelTitle": "멘파",
-    "channelId": "UC0-ZCUCeCQBwKU15x0Aqk_g",
-    "publishedAt": "2026-09-13T21:18:46Z",
+  "ZZy-ryPQZDg": {
+    "videoId": "ZZy-ryPQZDg",
+    "title": "봉누도 안 본 멋사의 명장면 월드컵",
+    "channelTitle": "멋사유튜브",
+    "channelId": "UCIhfL5TX-FODmWcX2k1uWHg",
+    "publishedAt": "2026-09-13T11:00:37Z",
     "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/JcKt1TxF3_g/hqdefault.jpg",
-    "viewCount": 647812,
-    "likeCount": 1118,
-    "duration": "PT7H39M3S",
-    "durationSeconds": 27543,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "thumbnail": "https://i.ytimg.com/vi/ZZy-ryPQZDg/hqdefault.jpg",
+    "viewCount": 127548,
+    "likeCount": 1185,
+    "duration": "PT1H13M59S",
+    "durationSeconds": 4439,
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   },
   "5mESl85XgyI": {
     "videoId": "5mESl85XgyI",
@@ -693,10 +693,10 @@
     "publishedAt": "2026-09-10T04:00:15Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/5mESl85XgyI/hqdefault.jpg",
-    "viewCount": 1320690,
-    "likeCount": 136006,
+    "viewCount": 1322759,
+    "likeCount": 136094,
     "duration": "PT3M6S",
     "durationSeconds": 186,
-    "collectedAt": "2026-09-14T12:56:53.088608+00:00"
+    "collectedAt": "2026-09-14T13:13:22.409281+00:00"
   }
 }
