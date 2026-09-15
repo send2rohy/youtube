@@ -7,11 +7,11 @@
     "publishedAt": "2026-09-14T23:00:28Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/NwLxMQtlKDY/hqdefault.jpg",
-    "viewCount": 48068,
-    "likeCount": 22795,
+    "viewCount": 52012,
+    "likeCount": 23238,
     "duration": "PT3M51S",
     "durationSeconds": 231,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "LRAxVSfwK4g": {
     "videoId": "LRAxVSfwK4g",
@@ -21,11 +21,11 @@
     "publishedAt": "2026-09-12T18:24:50Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/LRAxVSfwK4g/hqdefault.jpg",
-    "viewCount": 55751,
+    "viewCount": 55651,
     "likeCount": 113,
     "duration": "PT48S",
     "durationSeconds": 48,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "RNCCb1s7wis": {
     "videoId": "RNCCb1s7wis",
@@ -35,53 +35,11 @@
     "publishedAt": "2026-09-14T08:54:39Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/RNCCb1s7wis/hqdefault.jpg",
-    "viewCount": 504959,
-    "likeCount": 1707,
+    "viewCount": 507331,
+    "likeCount": 1712,
     "duration": "PT25M13S",
     "durationSeconds": 1513,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "IHIt9S2DWcQ": {
-    "videoId": "IHIt9S2DWcQ",
-    "title": "Dear my crazy soulmate",
-    "channelTitle": "IU - Topic",
-    "channelId": "UCTUR0sVEkD8T5MlSHqgaI_Q",
-    "publishedAt": "2026-09-10T09:00:00Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/IHIt9S2DWcQ/hqdefault.jpg",
-    "viewCount": 3036007,
-    "likeCount": 33239,
-    "duration": "PT2M36S",
-    "durationSeconds": 156,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "omLatXVqF-E": {
-    "videoId": "omLatXVqF-E",
-    "title": "스타크래프트 신작 트레일러 영상 공개, 흑운장의 첫 반응은?",
-    "channelTitle": "흑운장TV",
-    "channelId": "UCdtV_sB8WUWo-P_q3OwNfcw",
-    "publishedAt": "2026-09-13T02:40:05Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/omLatXVqF-E/hqdefault.jpg",
-    "viewCount": 167853,
-    "likeCount": 730,
-    "duration": "PT5M16S",
-    "durationSeconds": 316,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "P50Ag1FGBUY": {
-    "videoId": "P50Ag1FGBUY",
-    "title": "케인으로 극락 보내기",
-    "channelTitle": "이상호",
-    "channelId": "UCfIUuMA7U_jImP7oWfTe4Pw",
-    "publishedAt": "2026-09-13T09:47:47Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/P50Ag1FGBUY/hqdefault.jpg",
-    "viewCount": 706339,
-    "likeCount": 3054,
-    "duration": "PT22M17S",
-    "durationSeconds": 1337,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "Ak1cg1ex0NY": {
     "videoId": "Ak1cg1ex0NY",
@@ -91,11 +49,53 @@
     "publishedAt": "2026-09-14T09:00:25Z",
     "categoryId": "24",
     "thumbnail": "https://i.ytimg.com/vi/Ak1cg1ex0NY/hqdefault.jpg",
-    "viewCount": 65152,
-    "likeCount": 6877,
+    "viewCount": 66405,
+    "likeCount": 6895,
     "duration": "PT2M58S",
     "durationSeconds": 178,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "omLatXVqF-E": {
+    "videoId": "omLatXVqF-E",
+    "title": "스타크래프트 신작 트레일러 영상 공개, 흑운장의 첫 반응은?",
+    "channelTitle": "흑운장TV",
+    "channelId": "UCdtV_sB8WUWo-P_q3OwNfcw",
+    "publishedAt": "2026-09-13T02:40:05Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/omLatXVqF-E/hqdefault.jpg",
+    "viewCount": 168113,
+    "likeCount": 731,
+    "duration": "PT5M16S",
+    "durationSeconds": 316,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "P50Ag1FGBUY": {
+    "videoId": "P50Ag1FGBUY",
+    "title": "케인으로 극락 보내기",
+    "channelTitle": "이상호",
+    "channelId": "UCfIUuMA7U_jImP7oWfTe4Pw",
+    "publishedAt": "2026-09-13T09:47:47Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/P50Ag1FGBUY/hqdefault.jpg",
+    "viewCount": 706916,
+    "likeCount": 3055,
+    "duration": "PT22M17S",
+    "durationSeconds": 1337,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "IHIt9S2DWcQ": {
+    "videoId": "IHIt9S2DWcQ",
+    "title": "Dear my crazy soulmate",
+    "channelTitle": "IU - Topic",
+    "channelId": "UCTUR0sVEkD8T5MlSHqgaI_Q",
+    "publishedAt": "2026-09-10T09:00:00Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/IHIt9S2DWcQ/hqdefault.jpg",
+    "viewCount": 3041750,
+    "likeCount": 33276,
+    "duration": "PT2M36S",
+    "durationSeconds": 156,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "PGmiCTvvk9o": {
     "videoId": "PGmiCTvvk9o",
@@ -105,11 +105,11 @@
     "publishedAt": "2026-09-14T03:00:39Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/PGmiCTvvk9o/hqdefault.jpg",
-    "viewCount": 302902,
+    "viewCount": 303374,
     "likeCount": 1096,
     "duration": "PT35M53S",
     "durationSeconds": 2153,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "JJx_WQXOeK0": {
     "videoId": "JJx_WQXOeK0",
@@ -119,11 +119,11 @@
     "publishedAt": "2026-09-11T01:57:15Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/JJx_WQXOeK0/hqdefault.jpg",
-    "viewCount": 716147,
-    "likeCount": 9094,
+    "viewCount": 719528,
+    "likeCount": 9124,
     "duration": "PT3M28S",
     "durationSeconds": 208,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "sByuWVbkWNA": {
     "videoId": "sByuWVbkWNA",
@@ -133,11 +133,11 @@
     "publishedAt": "2026-09-13T13:00:40Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/sByuWVbkWNA/hqdefault.jpg",
-    "viewCount": 515254,
-    "likeCount": 1481,
+    "viewCount": 515640,
+    "likeCount": 1482,
     "duration": "PT20M27S",
     "durationSeconds": 1227,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "qCOvn2GVn6g": {
     "videoId": "qCOvn2GVn6g",
@@ -147,11 +147,11 @@
     "publishedAt": "2026-09-14T09:00:07Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/qCOvn2GVn6g/hqdefault.jpg",
-    "viewCount": 121844,
-    "likeCount": 8013,
+    "viewCount": 123814,
+    "likeCount": 8049,
     "duration": "PT3M50S",
     "durationSeconds": 230,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "-pTSEEYEu84": {
     "videoId": "-pTSEEYEu84",
@@ -161,39 +161,11 @@
     "publishedAt": "2026-09-13T08:30:31Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/-pTSEEYEu84/hqdefault.jpg",
-    "viewCount": 586102,
-    "likeCount": 1812,
+    "viewCount": 586712,
+    "likeCount": 1811,
     "duration": "PT26M2S",
     "durationSeconds": 1562,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "OwgvFefFAVA": {
-    "videoId": "OwgvFefFAVA",
-    "title": "NCT WISH 엔시티 위시 'I SPY' Trailer Part 1. Confused Boy",
-    "channelTitle": "NCT WISH",
-    "channelId": "UCiZqWVAeChfqlom5ZPR3ZJA",
-    "publishedAt": "2026-09-13T15:00:03Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/OwgvFefFAVA/hqdefault.jpg",
-    "viewCount": 188074,
-    "likeCount": 17926,
-    "duration": "PT2M10S",
-    "durationSeconds": 130,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "ZOEshYTrHcI": {
-    "videoId": "ZOEshYTrHcI",
-    "title": "FC온라인 여자 1황 '임유진' 도발했다가 결국 참교육 당하는 봉준 ㅋㅋㅋ",
-    "channelTitle": "게임대장봉준",
-    "channelId": "UCcgkgKhXT6QwdGj9Nr8PBcg",
-    "publishedAt": "2026-09-14T08:10:23Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/ZOEshYTrHcI/hqdefault.jpg",
-    "viewCount": 273055,
-    "likeCount": 944,
-    "duration": "PT14M48S",
-    "durationSeconds": 888,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "Di375ODZUAk": {
     "videoId": "Di375ODZUAk",
@@ -203,11 +175,39 @@
     "publishedAt": "2026-09-14T09:00:27Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/Di375ODZUAk/hqdefault.jpg",
-    "viewCount": 219234,
-    "likeCount": 3132,
+    "viewCount": 220662,
+    "likeCount": 3143,
     "duration": "PT2M30S",
     "durationSeconds": 150,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "ZOEshYTrHcI": {
+    "videoId": "ZOEshYTrHcI",
+    "title": "FC온라인 여자 1황 '임유진' 도발했다가 결국 참교육 당하는 봉준 ㅋㅋㅋ",
+    "channelTitle": "게임대장봉준",
+    "channelId": "UCcgkgKhXT6QwdGj9Nr8PBcg",
+    "publishedAt": "2026-09-14T08:10:23Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/ZOEshYTrHcI/hqdefault.jpg",
+    "viewCount": 275028,
+    "likeCount": 949,
+    "duration": "PT14M48S",
+    "durationSeconds": 888,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "OwgvFefFAVA": {
+    "videoId": "OwgvFefFAVA",
+    "title": "NCT WISH 엔시티 위시 'I SPY' Trailer Part 1. Confused Boy",
+    "channelTitle": "NCT WISH",
+    "channelId": "UCiZqWVAeChfqlom5ZPR3ZJA",
+    "publishedAt": "2026-09-13T15:00:03Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/OwgvFefFAVA/hqdefault.jpg",
+    "viewCount": 188281,
+    "likeCount": 17939,
+    "duration": "PT2M10S",
+    "durationSeconds": 130,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "0GtKIeXhhCo": {
     "videoId": "0GtKIeXhhCo",
@@ -217,11 +217,11 @@
     "publishedAt": "2026-09-14T13:00:35Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/0GtKIeXhhCo/hqdefault.jpg",
-    "viewCount": 230847,
-    "likeCount": 820,
+    "viewCount": 233082,
+    "likeCount": 827,
     "duration": "PT20M45S",
     "durationSeconds": 1245,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "YA1IK2HzmGw": {
     "videoId": "YA1IK2HzmGw",
@@ -231,11 +231,11 @@
     "publishedAt": "2026-09-14T09:00:17Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/YA1IK2HzmGw/hqdefault.jpg",
-    "viewCount": 575340,
-    "likeCount": 29090,
+    "viewCount": 579524,
+    "likeCount": 29241,
     "duration": "PT3M5S",
     "durationSeconds": 185,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "vmGHNK-xsck": {
     "videoId": "vmGHNK-xsck",
@@ -245,11 +245,11 @@
     "publishedAt": "2026-09-14T11:29:15Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/vmGHNK-xsck/hqdefault.jpg",
-    "viewCount": 54747,
+    "viewCount": 54984,
     "likeCount": 353,
     "duration": "PT9M",
     "durationSeconds": 540,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "NkUR7fjS9QQ": {
     "videoId": "NkUR7fjS9QQ",
@@ -259,11 +259,11 @@
     "publishedAt": "2026-09-09T17:16:25Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/NkUR7fjS9QQ/hqdefault.jpg",
-    "viewCount": 33908,
-    "likeCount": 64,
+    "viewCount": 34497,
+    "likeCount": 65,
     "duration": "PT2M49S",
     "durationSeconds": 169,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "ZMLCDzX9ASg": {
     "videoId": "ZMLCDzX9ASg",
@@ -273,67 +273,11 @@
     "publishedAt": "2026-09-14T07:18:59Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/ZMLCDzX9ASg/hqdefault.jpg",
-    "viewCount": 295076,
+    "viewCount": 295974,
     "likeCount": 495,
     "duration": "PT18M35S",
     "durationSeconds": 1115,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "xplsbbSxkEg": {
-    "videoId": "xplsbbSxkEg",
-    "title": "Sparkle",
-    "channelTitle": "Release - Topic",
-    "channelId": "UCHKd3nYw1w1pM0fSnqYEotA",
-    "publishedAt": "2026-09-11T09:04:32Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/xplsbbSxkEg/hqdefault.jpg",
-    "viewCount": 282166,
-    "likeCount": 4183,
-    "duration": "PT4M20S",
-    "durationSeconds": 260,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "CkNRJzKs9Cs": {
-    "videoId": "CkNRJzKs9Cs",
-    "title": "진짜 초 큰맘 먹고 대장팀 갑니다 ^^ (아직 미완성)",
-    "channelTitle": "유봉훈",
-    "channelId": "UCxRlvng0zVoyEBhutAuXfzQ",
-    "publishedAt": "2026-09-14T10:30:19Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/CkNRJzKs9Cs/hqdefault.jpg",
-    "viewCount": 262839,
-    "likeCount": 1122,
-    "duration": "PT8M57S",
-    "durationSeconds": 537,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "gTAmRc1QWis": {
-    "videoId": "gTAmRc1QWis",
-    "title": "[MV] JUEUN(주은) _ I Miss You (Sampling By Goblin(도깨비))",
-    "channelTitle": "1theK (원더케이)",
-    "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
-    "publishedAt": "2026-09-12T09:00:19Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/gTAmRc1QWis/hqdefault.jpg",
-    "viewCount": 12863,
-    "likeCount": 415,
-    "duration": "PT3M10S",
-    "durationSeconds": 190,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "MTQjJ-ctLSo": {
-    "videoId": "MTQjJ-ctLSo",
-    "title": "🔥왁뿌볼 뿌수기🔥신상 또 떴는데 이번에 진짜 미쳤습니다ㅋㅋㅋㅋㅋ",
-    "channelTitle": "혜안",
-    "channelId": "UC8CIM3d3zDYMk-3T5aAz0yw",
-    "publishedAt": "2026-09-14T10:15:21Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/MTQjJ-ctLSo/hqdefault.jpg",
-    "viewCount": 300684,
-    "likeCount": 9618,
-    "duration": "PT16M32S",
-    "durationSeconds": 992,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "jVzMzYKdppw": {
     "videoId": "jVzMzYKdppw",
@@ -343,11 +287,67 @@
     "publishedAt": "2026-09-14T09:04:26Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/jVzMzYKdppw/hqdefault.jpg",
-    "viewCount": 15044,
-    "likeCount": 496,
+    "viewCount": 15514,
+    "likeCount": 500,
     "duration": "PT3M11S",
     "durationSeconds": 191,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "CkNRJzKs9Cs": {
+    "videoId": "CkNRJzKs9Cs",
+    "title": "진짜 초 큰맘 먹고 대장팀 갑니다 ^^ (아직 미완성)",
+    "channelTitle": "유봉훈",
+    "channelId": "UCxRlvng0zVoyEBhutAuXfzQ",
+    "publishedAt": "2026-09-14T10:30:19Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/CkNRJzKs9Cs/hqdefault.jpg",
+    "viewCount": 264330,
+    "likeCount": 1129,
+    "duration": "PT8M57S",
+    "durationSeconds": 537,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "gTAmRc1QWis": {
+    "videoId": "gTAmRc1QWis",
+    "title": "[MV] JUEUN(주은) _ I Miss You (Sampling By Goblin(도깨비))",
+    "channelTitle": "1theK (원더케이)",
+    "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+    "publishedAt": "2026-09-12T09:00:19Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/gTAmRc1QWis/hqdefault.jpg",
+    "viewCount": 12980,
+    "likeCount": 424,
+    "duration": "PT3M10S",
+    "durationSeconds": 190,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "MTQjJ-ctLSo": {
+    "videoId": "MTQjJ-ctLSo",
+    "title": "🔥왁뿌볼 뿌수기🔥신상 또 떴는데 이번에 진짜 미쳤습니다ㅋㅋㅋㅋㅋ",
+    "channelTitle": "혜안",
+    "channelId": "UC8CIM3d3zDYMk-3T5aAz0yw",
+    "publishedAt": "2026-09-14T10:15:21Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/MTQjJ-ctLSo/hqdefault.jpg",
+    "viewCount": 303065,
+    "likeCount": 9645,
+    "duration": "PT16M32S",
+    "durationSeconds": 992,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "xplsbbSxkEg": {
+    "videoId": "xplsbbSxkEg",
+    "title": "Sparkle",
+    "channelTitle": "Release - Topic",
+    "channelId": "UCHKd3nYw1w1pM0fSnqYEotA",
+    "publishedAt": "2026-09-11T09:04:32Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/xplsbbSxkEg/hqdefault.jpg",
+    "viewCount": 283280,
+    "likeCount": 4188,
+    "duration": "PT4M20S",
+    "durationSeconds": 260,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "Dp83ViHioi4": {
     "videoId": "Dp83ViHioi4",
@@ -357,11 +357,11 @@
     "publishedAt": "2026-09-14T14:44:03Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/Dp83ViHioi4/hqdefault.jpg",
-    "viewCount": 173436,
-    "likeCount": 624,
+    "viewCount": 176950,
+    "likeCount": 630,
     "duration": "PT45M9S",
     "durationSeconds": 2709,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "7BVvQeJt1EU": {
     "videoId": "7BVvQeJt1EU",
@@ -371,39 +371,11 @@
     "publishedAt": "2026-09-13T11:00:39Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/7BVvQeJt1EU/hqdefault.jpg",
-    "viewCount": 131647,
-    "likeCount": 10792,
+    "viewCount": 131863,
+    "likeCount": 10798,
     "duration": "PT4M41S",
     "durationSeconds": 281,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "cCAwkcgArBY": {
-    "videoId": "cCAwkcgArBY",
-    "title": "엔드에 고대 도시가 있다는 슬픈 전설.. [마크 코블몬 EP.07]",
-    "channelTitle": "말왕TV",
-    "channelId": "UCYJDUekoQz0-bo8al1diLWQ",
-    "publishedAt": "2026-09-13T04:59:44Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/cCAwkcgArBY/hqdefault.jpg",
-    "viewCount": 468014,
-    "likeCount": 3644,
-    "duration": "PT31M49S",
-    "durationSeconds": 1909,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "c_EkPFglnpU": {
-    "videoId": "c_EkPFglnpU",
-    "title": "Rip Out Your Eyes",
-    "channelTitle": "Marino - Topic",
-    "channelId": "UCyiBThiUINekOuhsQz7JQPA",
-    "publishedAt": "2026-09-08T10:03:20Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/c_EkPFglnpU/hqdefault.jpg",
-    "viewCount": 1403911,
-    "likeCount": 38153,
-    "duration": "PT1M51S",
-    "durationSeconds": 111,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "xGKqBQOmgLI": {
     "videoId": "xGKqBQOmgLI",
@@ -413,11 +385,39 @@
     "publishedAt": "2026-09-14T01:33:33Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/xGKqBQOmgLI/hqdefault.jpg",
-    "viewCount": 157970,
-    "likeCount": 1412,
+    "viewCount": 158140,
+    "likeCount": 1414,
     "duration": "PT2H31M35S",
     "durationSeconds": 9095,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "c_EkPFglnpU": {
+    "videoId": "c_EkPFglnpU",
+    "title": "Rip Out Your Eyes",
+    "channelTitle": "Marino - Topic",
+    "channelId": "UCyiBThiUINekOuhsQz7JQPA",
+    "publishedAt": "2026-09-08T10:03:20Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/c_EkPFglnpU/hqdefault.jpg",
+    "viewCount": 1407612,
+    "likeCount": 38195,
+    "duration": "PT1M51S",
+    "durationSeconds": 111,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "cCAwkcgArBY": {
+    "videoId": "cCAwkcgArBY",
+    "title": "엔드에 고대 도시가 있다는 슬픈 전설.. [마크 코블몬 EP.07]",
+    "channelTitle": "말왕TV",
+    "channelId": "UCYJDUekoQz0-bo8al1diLWQ",
+    "publishedAt": "2026-09-13T04:59:44Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/cCAwkcgArBY/hqdefault.jpg",
+    "viewCount": 468316,
+    "likeCount": 3649,
+    "duration": "PT31M49S",
+    "durationSeconds": 1909,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "or2hAeUxWu8": {
     "videoId": "or2hAeUxWu8",
@@ -427,11 +427,11 @@
     "publishedAt": "2026-09-12T09:00:27Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/or2hAeUxWu8/hqdefault.jpg",
-    "viewCount": 35117,
+    "viewCount": 35433,
     "likeCount": 370,
     "duration": "PT2M50S",
     "durationSeconds": 170,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "z7fhQKVWcEo": {
     "videoId": "z7fhQKVWcEo",
@@ -441,11 +441,11 @@
     "publishedAt": "2026-09-14T07:45:07Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/z7fhQKVWcEo/hqdefault.jpg",
-    "viewCount": 161293,
-    "likeCount": 1278,
+    "viewCount": 161956,
+    "likeCount": 1286,
     "duration": "PT2H38M34S",
     "durationSeconds": 9514,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "N01A_9ZZiXg": {
     "videoId": "N01A_9ZZiXg",
@@ -455,39 +455,11 @@
     "publishedAt": "2026-09-14T04:01:55Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/N01A_9ZZiXg/hqdefault.jpg",
-    "viewCount": 78626,
-    "likeCount": 2825,
+    "viewCount": 79391,
+    "likeCount": 2840,
     "duration": "PT2M8S",
     "durationSeconds": 128,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "g5Jw8omDc08": {
-    "videoId": "g5Jw8omDc08",
-    "title": "[ 불도그 LIVE 생방송 9/14 ] 리니지m 새벽3시에켰습니다, 드슬떳습니다! 악세지존을향해!!",
-    "channelTitle": "불도그",
-    "channelId": "UCBjPppB6FOLloYBUvgbqE_A",
-    "publishedAt": "2026-09-14T04:25:52Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/g5Jw8omDc08/hqdefault.jpg",
-    "viewCount": 399363,
-    "likeCount": 1407,
-    "duration": "PT10H17M43S",
-    "durationSeconds": 37063,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "4XycAo8rQJw": {
-    "videoId": "4XycAo8rQJw",
-    "title": "Polaroid Stains",
-    "channelTitle": "Forrest Rose - Topic",
-    "channelId": "UCeLTS-k35050pMjbMeQbZFw",
-    "publishedAt": "2026-09-06T10:00:07Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/4XycAo8rQJw/hqdefault.jpg",
-    "viewCount": 221494,
-    "likeCount": 14808,
-    "duration": "PT3M15S",
-    "durationSeconds": 195,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "PhRhH2vsLhg": {
     "videoId": "PhRhH2vsLhg",
@@ -497,11 +469,39 @@
     "publishedAt": "2026-09-14T09:59:47Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/PhRhH2vsLhg/hqdefault.jpg",
-    "viewCount": 233713,
-    "likeCount": 638,
+    "viewCount": 235165,
+    "likeCount": 641,
     "duration": "PT16M41S",
     "durationSeconds": 1001,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "4XycAo8rQJw": {
+    "videoId": "4XycAo8rQJw",
+    "title": "Polaroid Stains",
+    "channelTitle": "Forrest Rose - Topic",
+    "channelId": "UCeLTS-k35050pMjbMeQbZFw",
+    "publishedAt": "2026-09-06T10:00:07Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/4XycAo8rQJw/hqdefault.jpg",
+    "viewCount": 221887,
+    "likeCount": 14810,
+    "duration": "PT3M15S",
+    "durationSeconds": 195,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "g5Jw8omDc08": {
+    "videoId": "g5Jw8omDc08",
+    "title": "[ 불도그 LIVE 생방송 9/14 ] 리니지m 새벽3시에켰습니다, 드슬떳습니다! 악세지존을향해!!",
+    "channelTitle": "불도그",
+    "channelId": "UCBjPppB6FOLloYBUvgbqE_A",
+    "publishedAt": "2026-09-14T04:25:52Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/g5Jw8omDc08/hqdefault.jpg",
+    "viewCount": 399547,
+    "likeCount": 1407,
+    "duration": "PT10H17M43S",
+    "durationSeconds": 37063,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "ukT877jmgdA": {
     "videoId": "ukT877jmgdA",
@@ -511,11 +511,11 @@
     "publishedAt": "2026-09-13T03:00:12Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/ukT877jmgdA/hqdefault.jpg",
-    "viewCount": 21057,
-    "likeCount": 589,
+    "viewCount": 21468,
+    "likeCount": 590,
     "duration": "PT2M45S",
     "durationSeconds": 165,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "KqmKmuppwEI": {
     "videoId": "KqmKmuppwEI",
@@ -525,11 +525,11 @@
     "publishedAt": "2026-09-13T10:17:29Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/KqmKmuppwEI/hqdefault.jpg",
-    "viewCount": 349907,
-    "likeCount": 1048,
+    "viewCount": 350552,
+    "likeCount": 1051,
     "duration": "PT43M32S",
     "durationSeconds": 2612,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "qWakHDd-Tgk": {
     "videoId": "qWakHDd-Tgk",
@@ -539,11 +539,11 @@
     "publishedAt": "2026-09-13T09:00:06Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/qWakHDd-Tgk/hqdefault.jpg",
-    "viewCount": 209355,
-    "likeCount": 4721,
+    "viewCount": 211048,
+    "likeCount": 4739,
     "duration": "PT3M44S",
     "durationSeconds": 224,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "n1r1bVQC1kM": {
     "videoId": "n1r1bVQC1kM",
@@ -553,11 +553,11 @@
     "publishedAt": "2026-09-14T03:00:33Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/n1r1bVQC1kM/hqdefault.jpg",
-    "viewCount": 241183,
-    "likeCount": 832,
+    "viewCount": 241715,
+    "likeCount": 831,
     "duration": "PT12M34S",
     "durationSeconds": 754,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "T8overWHe90": {
     "videoId": "T8overWHe90",
@@ -567,11 +567,11 @@
     "publishedAt": "2026-08-31T15:02:39Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/T8overWHe90/hqdefault.jpg",
-    "viewCount": 61850,
-    "likeCount": 186,
+    "viewCount": 62062,
+    "likeCount": 187,
     "duration": "PT4M39S",
     "durationSeconds": 279,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "JKmiQ2XCrqE": {
     "videoId": "JKmiQ2XCrqE",
@@ -581,11 +581,11 @@
     "publishedAt": "2026-09-14T08:22:56Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/JKmiQ2XCrqE/hqdefault.jpg",
-    "viewCount": 90884,
-    "likeCount": 456,
+    "viewCount": 91296,
+    "likeCount": 457,
     "duration": "PT38M54S",
     "durationSeconds": 2334,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "W0sYhOnCJko": {
     "videoId": "W0sYhOnCJko",
@@ -595,11 +595,11 @@
     "publishedAt": "2026-09-14T03:00:39Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/W0sYhOnCJko/hqdefault.jpg",
-    "viewCount": 11948,
+    "viewCount": 12232,
     "likeCount": 131,
     "duration": "PT4M24S",
     "durationSeconds": 264,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "Si8FIL2LWrc": {
     "videoId": "Si8FIL2LWrc",
@@ -609,11 +609,11 @@
     "publishedAt": "2026-09-14T09:00:17Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/Si8FIL2LWrc/hqdefault.jpg",
-    "viewCount": 183861,
+    "viewCount": 184533,
     "likeCount": 439,
     "duration": "PT17M7S",
     "durationSeconds": 1027,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "mw0gC7ML-UA": {
     "videoId": "mw0gC7ML-UA",
@@ -623,11 +623,11 @@
     "publishedAt": "2026-09-10T04:03:08Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/mw0gC7ML-UA/hqdefault.jpg",
-    "viewCount": 763285,
-    "likeCount": 10260,
+    "viewCount": 764534,
+    "likeCount": 10263,
     "duration": "PT2M55S",
     "durationSeconds": 175,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "sjXdaX4gKsc": {
     "videoId": "sjXdaX4gKsc",
@@ -637,39 +637,11 @@
     "publishedAt": "2026-09-13T10:08:55Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/sjXdaX4gKsc/hqdefault.jpg",
-    "viewCount": 308212,
+    "viewCount": 308437,
     "likeCount": 1021,
     "duration": "PT51M58S",
     "durationSeconds": 3118,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "Rg3OOD0RGlU": {
-    "videoId": "Rg3OOD0RGlU",
-    "title": "MONSTA X 'MAGIC' Dance Practice (Magician ver.)",
-    "channelTitle": "MONSTA X",
-    "channelId": "UCZvCP6sWj75MwpUP4LVtpNw",
-    "publishedAt": "2026-09-14T13:00:36Z",
-    "categoryId": "10",
-    "thumbnail": "https://i.ytimg.com/vi/Rg3OOD0RGlU/hqdefault.jpg",
-    "viewCount": 44390,
-    "likeCount": 6393,
-    "duration": "PT2M40S",
-    "durationSeconds": 160,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
-  },
-  "YJ9Fsu6jZNM": {
-    "videoId": "YJ9Fsu6jZNM",
-    "title": "악마사냥꾼 궁 평X3💥 으로 원콤내버리는 \"고기맛을 알아버린 람머스\"😈",
-    "channelTitle": "전략적죽음",
-    "channelId": "UCJmsB6NAU0sp2htDL4KmX0A",
-    "publishedAt": "2026-09-14T09:58:05Z",
-    "categoryId": "20",
-    "thumbnail": "https://i.ytimg.com/vi/YJ9Fsu6jZNM/hqdefault.jpg",
-    "viewCount": 152314,
-    "likeCount": 750,
-    "duration": "PT20M32S",
-    "durationSeconds": 1232,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "Ggaks-34Fuc": {
     "videoId": "Ggaks-34Fuc",
@@ -679,11 +651,39 @@
     "publishedAt": "2026-09-11T09:00:09Z",
     "categoryId": "10",
     "thumbnail": "https://i.ytimg.com/vi/Ggaks-34Fuc/hqdefault.jpg",
-    "viewCount": 162593,
-    "likeCount": 2694,
+    "viewCount": 163291,
+    "likeCount": 2698,
     "duration": "PT3M32S",
     "durationSeconds": 212,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "YJ9Fsu6jZNM": {
+    "videoId": "YJ9Fsu6jZNM",
+    "title": "악마사냥꾼 궁 평X3💥 으로 원콤내버리는 \"고기맛을 알아버린 람머스\"😈",
+    "channelTitle": "전략적죽음",
+    "channelId": "UCJmsB6NAU0sp2htDL4KmX0A",
+    "publishedAt": "2026-09-14T09:58:05Z",
+    "categoryId": "20",
+    "thumbnail": "https://i.ytimg.com/vi/YJ9Fsu6jZNM/hqdefault.jpg",
+    "viewCount": 153284,
+    "likeCount": 754,
+    "duration": "PT20M32S",
+    "durationSeconds": 1232,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
+  },
+  "Rg3OOD0RGlU": {
+    "videoId": "Rg3OOD0RGlU",
+    "title": "MONSTA X 'MAGIC' Dance Practice (Magician ver.)",
+    "channelTitle": "MONSTA X",
+    "channelId": "UCZvCP6sWj75MwpUP4LVtpNw",
+    "publishedAt": "2026-09-14T13:00:36Z",
+    "categoryId": "10",
+    "thumbnail": "https://i.ytimg.com/vi/Rg3OOD0RGlU/hqdefault.jpg",
+    "viewCount": 44893,
+    "likeCount": 6438,
+    "duration": "PT2M40S",
+    "durationSeconds": 160,
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   },
   "Gu7_LaU3fgk": {
     "videoId": "Gu7_LaU3fgk",
@@ -693,10 +693,10 @@
     "publishedAt": "2026-09-12T18:12:46Z",
     "categoryId": "20",
     "thumbnail": "https://i.ytimg.com/vi/Gu7_LaU3fgk/hqdefault.jpg",
-    "viewCount": 687417,
-    "likeCount": 7148,
+    "viewCount": 688374,
+    "likeCount": 7154,
     "duration": "PT3M5S",
     "durationSeconds": 185,
-    "collectedAt": "2026-09-15T02:42:38.307218+00:00"
+    "collectedAt": "2026-09-15T02:55:24.256665+00:00"
   }
 }
