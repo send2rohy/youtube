@@ -1,4 +1,3 @@
-
 import os
 import json
 import math
@@ -28,6 +27,10 @@ SNAPSHOT_INTERVAL_HOURS = 6
 HISTORY_DAYS = 30
 
 
+# =========================================================
+# YouTube API
+# =========================================================
+
 def youtube_request(params):
     params["key"] = API_KEY
 
@@ -55,15 +58,11 @@ def youtube_request(params):
     return result
 
 
-def parse_duration(duration):
-    """
-    ISO 8601 영상 길이를 초 단위로 변환한다.
+# =========================================================
+# 영상 길이
+# =========================================================
 
-    예:
-    PT1M30S -> 90
-    PT45S   -> 45
-    PT1H2M3S -> 3723
-    """
+def parse_duration(duration):
 
     import re
 
@@ -90,30 +89,11 @@ def parse_duration(duration):
     )
 
 
+# =========================================================
+# history.json 읽기
+# =========================================================
+
 def load_history():
-    """
-    history.json을 읽는다.
-
-    새 구조:
-    {
-      "p": {
-        "videoId": {
-          "v": 조회수,
-          "t": 수집시간
-        }
-      },
-      "s": [
-        {
-          "t": 스냅샷 시간,
-          "v": {
-            "videoId": 조회수
-          }
-        }
-      ]
-    }
-
-    기존 구형 구조도 자동으로 읽을 수 있도록 처리한다.
-    """
 
     if not os.path.exists(HISTORY_FILE):
         return {
@@ -122,22 +102,25 @@ def load_history():
         }
 
     try:
+
         with open(
             HISTORY_FILE,
             "r",
             encoding="utf-8"
         ) as file:
+
             data = json.load(file)
 
     except Exception:
+
         return {
             "previous": {},
             "snapshots": []
         }
 
-    # --------------------------------------------------
+    # -----------------------------------------------------
     # 새 구조
-    # --------------------------------------------------
+    # -----------------------------------------------------
 
     if isinstance(data, dict) and (
         "p" in data or "s" in data
@@ -163,14 +146,28 @@ def load_history():
                     continue
 
                 previous[video_id] = {
+
                     "viewCount": int(
                         item.get(
                             "v",
                             0
                         )
                     ),
+
                     "collectedAt": item.get(
                         "t",
+                        ""
+                    ),
+
+                    # 이전 순위
+                    "rank": item.get(
+                        "r",
+                        None
+                    ),
+
+                    # 이전 타입
+                    "type": item.get(
+                        "y",
                         ""
                     )
                 }
@@ -183,16 +180,9 @@ def load_history():
             "snapshots": snapshots
         }
 
-    # --------------------------------------------------
+    # -----------------------------------------------------
     # 기존 구형 구조
-    #
-    # {
-    #   "videoId": {
-    #       "viewCount": ...,
-    #       "collectedAt": ...
-    #   }
-    # }
-    # --------------------------------------------------
+    # -----------------------------------------------------
 
     previous = {}
 
@@ -207,14 +197,26 @@ def load_history():
                 continue
 
             previous[video_id] = {
+
                 "viewCount": int(
                     item.get(
                         "viewCount",
                         0
                     )
                 ),
+
                 "collectedAt": item.get(
                     "collectedAt",
+                    ""
+                ),
+
+                "rank": item.get(
+                    "rank",
+                    None
+                ),
+
+                "type": item.get(
+                    "type",
                     ""
                 )
             }
@@ -225,11 +227,11 @@ def load_history():
     }
 
 
+# =========================================================
+# ISO 시간
+# =========================================================
+
 def parse_iso_time(value):
-    """
-    ISO 시간을 datetime으로 변환한다.
-    실패하면 None을 반환한다.
-    """
 
     if not value:
         return None
@@ -248,14 +250,14 @@ def parse_iso_time(value):
         return None
 
 
+# =========================================================
+# 6시간 스냅샷 여부
+# =========================================================
+
 def should_add_snapshot(
     snapshots,
     now
 ):
-    """
-    마지막 장기 스냅샷 이후
-    6시간 이상 지났으면 새 스냅샷을 만든다.
-    """
 
     if not snapshots:
         return True
@@ -285,16 +287,16 @@ def should_add_snapshot(
     )
 
 
+# =========================================================
+# 장기 스냅샷 생성
+# =========================================================
+
 def build_snapshot(
     current_videos,
+    normal,
+    shorts,
     now
 ):
-    """
-    장기 보관용 스냅샷.
-
-    저장 용량을 줄이기 위해
-    영상 ID와 조회수만 저장한다.
-    """
 
     videos = {}
 
@@ -313,56 +315,136 @@ def build_snapshot(
 
             videos[video_id] = 0
 
+    # -----------------------------------------------------
+    # 당시 순위 저장
+    # -----------------------------------------------------
+
+    normal_ranks = {}
+
+    for index, video in enumerate(
+        normal,
+        start=1
+    ):
+
+        normal_ranks[
+            video["videoId"]
+        ] = index
+
+    shorts_ranks = {}
+
+    for index, video in enumerate(
+        shorts,
+        start=1
+    ):
+
+        shorts_ranks[
+            video["videoId"]
+        ] = index
+
+    ranks = {}
+
+    ranks.update(
+        normal_ranks
+    )
+
+    ranks.update(
+        shorts_ranks
+    )
+
     return {
+
         "t": now.isoformat(),
-        "v": videos
+
+        "v": videos,
+
+        # 당시 순위
+        "r": ranks
     }
 
+
+# =========================================================
+# history.json 저장
+# =========================================================
 
 def save_history(
     previous,
     snapshots,
     current_videos,
+    normal,
+    shorts,
     now
 ):
-    """
-    history.json 저장.
 
-    p:
-        바로 직전 실행 데이터.
-        급상승 계산에 사용.
+    # -----------------------------------------------------
+    # 현재 순위 만들기
+    # -----------------------------------------------------
 
-    s:
-        6시간 단위 장기 스냅샷.
-        최대 30일 보관.
-    """
+    current_ranks = {}
 
-    # --------------------------------------------------
-    # 바로 직전 실행 데이터
+    current_types = {}
+
+    for index, video in enumerate(
+        normal,
+        start=1
+    ):
+
+        video_id = video["videoId"]
+
+        current_ranks[video_id] = index
+
+        current_types[video_id] = "video"
+
+    for index, video in enumerate(
+        shorts,
+        start=1
+    ):
+
+        video_id = video["videoId"]
+
+        current_ranks[video_id] = index
+
+        current_types[video_id] = "shorts"
+
+    # -----------------------------------------------------
+    # 직전 실행 데이터
     #
-    # 조회수와 시간만 저장한다.
-    # --------------------------------------------------
+    # 조회수
+    # 수집시간
+    # 직전 순위
+    # 영상 타입
+    # -----------------------------------------------------
 
     compact_previous = {}
 
     for video_id, video in current_videos.items():
 
         compact_previous[video_id] = {
+
             "v": int(
                 video.get(
                     "viewCount",
                     0
                 )
             ),
+
             "t": video.get(
                 "collectedAt",
                 now.isoformat()
+            ),
+
+            "r": current_ranks.get(
+                video_id
+            ),
+
+            "y": current_types.get(
+                video_id,
+                ""
             )
         }
 
-    # --------------------------------------------------
+    # -----------------------------------------------------
     # 장기 스냅샷
-    # --------------------------------------------------
+    # -----------------------------------------------------
 
     snapshots = list(
         snapshots or []
@@ -376,13 +458,15 @@ def save_history(
         snapshots.append(
             build_snapshot(
                 current_videos,
+                normal,
+                shorts,
                 now
             )
         )
 
-    # --------------------------------------------------
+    # -----------------------------------------------------
     # 최근 30일만 유지
-    # --------------------------------------------------
+    # -----------------------------------------------------
 
     cutoff = (
         now
@@ -417,7 +501,8 @@ def save_history(
                 snapshot
             )
 
-    # 최신순이 아니라 시간순 유지
+    # 시간순 정렬
+
     cleaned_snapshots.sort(
         key=lambda x: x.get(
             "t",
@@ -425,12 +510,14 @@ def save_history(
         )
     )
 
-    # --------------------------------------------------
+    # -----------------------------------------------------
     # 최종 저장
-    # --------------------------------------------------
+    # -----------------------------------------------------
 
     data = {
+
         "p": compact_previous,
+
         "s": cleaned_snapshots
     }
 
@@ -451,15 +538,11 @@ def save_history(
         )
 
 
+# =========================================================
+# YouTube 인기 후보
+# =========================================================
+
 def get_candidate_videos():
-    """
-    YouTube의 현재 인기 후보를 가져온다.
-
-    여기서는 mostPopular를
-    '최종 급상승 순위'로 사용하지 않는다.
-
-    단지 급상승 계산을 위한 후보군으로 사용한다.
-    """
 
     data = youtube_request({
 
@@ -483,6 +566,10 @@ def get_candidate_videos():
         []
     )
 
+
+# =========================================================
+# 영상 데이터 수집
+# =========================================================
 
 def collect_video_data(items):
 
@@ -538,7 +625,6 @@ def collect_video_data(items):
             ""
         )
 
-        # YouTube 공식 영상 카테고리 ID
         category_id = snippet.get(
             "categoryId",
             ""
@@ -613,17 +699,11 @@ def collect_video_data(items):
     return collected
 
 
+# =========================================================
+# Shorts 판정
+# =========================================================
+
 def is_shorts(video):
-    """
-    Shorts 여부를 판정하기 위한 후보 분류.
-
-    YouTube API에는 'isShorts'라는
-    단순한 필드가 없으므로
-    영상 길이를 이용해 우선 후보를 나눈다.
-
-    실제 Shorts 판정은 YouTube 플랫폼의
-    내부 기준과 완전히 동일하지 않을 수 있다.
-    """
 
     duration = video.get(
         "durationSeconds",
@@ -632,6 +712,10 @@ def is_shorts(video):
 
     return duration <= 180
 
+
+# =========================================================
+# 시간 계산
+# =========================================================
 
 def hours_between(
     old_time,
@@ -668,15 +752,14 @@ def hours_between(
         return 0
 
 
+# =========================================================
+# 급상승 점수
+# =========================================================
+
 def calculate_score(
     current,
     previous
 ):
-    """
-    급상승 점수 계산.
-
-    기존 계산 방식을 그대로 유지한다.
-    """
 
     if not previous:
 
@@ -739,13 +822,6 @@ def calculate_score(
     else:
 
         growth_rate = 0
-
-    """
-    조회수 증가량은 로그 스케일로 계산한다.
-
-    이렇게 해야 초대형 채널이
-    무조건 유리해지는 것을 어느 정도 줄일 수 있다.
-    """
 
     volume_score = math.log10(
         1 + views_per_hour
@@ -825,6 +901,10 @@ def calculate_score(
         )
     }
 
+
+# =========================================================
+# 순위 계산
+# =========================================================
 
 def build_rankings(
     current_videos,
@@ -906,6 +986,121 @@ def build_rankings(
     )
 
 
+# =========================================================
+# 순위 변동 계산
+# =========================================================
+
+def add_rank_changes(
+    normal,
+    shorts,
+    previous
+):
+
+    previous = previous or {}
+
+    # -----------------------------------------------------
+    # 일반 영상
+    # -----------------------------------------------------
+
+    for index, video in enumerate(
+        normal,
+        start=1
+    ):
+
+        video_id = video["videoId"]
+
+        old = previous.get(
+            video_id,
+            {}
+        )
+
+        old_rank = old.get(
+            "rank"
+        )
+
+        video["rank"] = index
+
+        if old_rank is None:
+
+            video["rankChange"] = None
+
+            video["rankStatus"] = "NEW"
+
+        else:
+
+            change = (
+                old_rank - index
+            )
+
+            video["rankChange"] = change
+
+            if change > 0:
+
+                video["rankStatus"] = "UP"
+
+            elif change < 0:
+
+                video["rankStatus"] = "DOWN"
+
+            else:
+
+                video["rankStatus"] = "SAME"
+
+    # -----------------------------------------------------
+    # Shorts
+    # -----------------------------------------------------
+
+    for index, video in enumerate(
+        shorts,
+        start=1
+    ):
+
+        video_id = video["videoId"]
+
+        old = previous.get(
+            video_id,
+            {}
+        )
+
+        old_rank = old.get(
+            "rank"
+        )
+
+        video["rank"] = index
+
+        if old_rank is None:
+
+            video["rankChange"] = None
+
+            video["rankStatus"] = "NEW"
+
+        else:
+
+            change = (
+                old_rank - index
+            )
+
+            video["rankChange"] = change
+
+            if change > 0:
+
+                video["rankStatus"] = "UP"
+
+            elif change < 0:
+
+                video["rankStatus"] = "DOWN"
+
+            else:
+
+                video["rankStatus"] = "SAME"
+
+    return normal, shorts
+
+
+# =========================================================
+# ranking.json
+# =========================================================
+
 def make_ranking_file(
     normal,
     shorts
@@ -961,29 +1156,33 @@ def make_ranking_file(
         )
 
 
+# =========================================================
+# 메인
+# =========================================================
+
 def main():
 
     print(
         "YouTube 급상승 데이터 수집 시작"
     )
 
-    # --------------------------------------------------
-    # 기존 history 읽기
-    # --------------------------------------------------
+    # -----------------------------------------------------
+    # 기존 history
+    # -----------------------------------------------------
 
     history = load_history()
 
-    # --------------------------------------------------
+    # -----------------------------------------------------
     # 현재 시간
-    # --------------------------------------------------
+    # -----------------------------------------------------
 
     now = datetime.now(
         timezone.utc
     )
 
-    # --------------------------------------------------
-    # YouTube 후보 영상 수집
-    # --------------------------------------------------
+    # -----------------------------------------------------
+    # 후보 영상
+    # -----------------------------------------------------
 
     items = get_candidate_videos()
 
@@ -991,6 +1190,10 @@ def main():
         "후보 영상:",
         len(items)
     )
+
+    # -----------------------------------------------------
+    # 영상 데이터
+    # -----------------------------------------------------
 
     current_videos = collect_video_data(
         items
@@ -1001,9 +1204,9 @@ def main():
         len(current_videos)
     )
 
-    # --------------------------------------------------
-    # 기존과 동일한 급상승 순위 계산
-    # --------------------------------------------------
+    # -----------------------------------------------------
+    # 급상승 순위
+    # -----------------------------------------------------
 
     normal, shorts = build_rankings(
 
@@ -1012,9 +1215,25 @@ def main():
         history
     )
 
-    # --------------------------------------------------
-    # ranking.json 생성
-    # --------------------------------------------------
+    # -----------------------------------------------------
+    # 순위 변동 추가
+    # -----------------------------------------------------
+
+    normal, shorts = add_rank_changes(
+
+        normal,
+
+        shorts,
+
+        history.get(
+            "previous",
+            {}
+        )
+    )
+
+    # -----------------------------------------------------
+    # ranking.json
+    # -----------------------------------------------------
 
     make_ranking_file(
 
@@ -1023,11 +1242,9 @@ def main():
         shorts
     )
 
-    # --------------------------------------------------
-    # history.json 저장
-    #
-    # 직전 데이터 + 6시간 장기 스냅샷
-    # --------------------------------------------------
+    # -----------------------------------------------------
+    # history.json
+    # -----------------------------------------------------
 
     save_history(
 
@@ -1043,20 +1260,24 @@ def main():
 
         current_videos,
 
+        normal,
+
+        shorts,
+
         now
     )
 
+    # -----------------------------------------------------
+    # 출력
+    # -----------------------------------------------------
+
     print(
-
         "일반 동영상 순위:",
-
         len(normal)
     )
 
     print(
-
         "Shorts 순위:",
-
         len(shorts)
     )
 
@@ -1068,8 +1289,11 @@ def main():
         "history.json 장기 이력 저장 완료"
     )
 
+    print(
+        "순위 변동 데이터 저장 완료"
+    )
+
 
 if __name__ == "__main__":
 
     main()
-
